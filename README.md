@@ -271,11 +271,11 @@ This is a personal project. If you'd like to contribute or suggest improvements,
 
 **AB Function Hall**
 - Location: Guntakal
-- Website: [Your Website URL]
-- Email: [Your Contact Email]
+- Website: [ab-function-hall-booking-system.vercel.app]
+- Email: [Shaikbilaal223@gmail.com]
 
 ---
 
 **Built with ❤️ for AB Function Hall**
 
-*Making every event memorable since [Year]*
+*Making every event memorable since [2025]*
