@@ -1,0 +1,1 @@
+ALTER TABLE `bookings` ADD `user_id` text REFERENCES user(id);
